@@ -1,0 +1,7 @@
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\bin\Debug\f-16_home_cockpit_interface.exe.config
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\bin\Debug\f-16_home_cockpit_interface.exe
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\bin\Debug\f-16_home_cockpit_interface.pdb
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\obj\Debug\f-16_home_cockpit_interface.csprojAssemblyReference.cache
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\obj\Debug\f-16_home_cockpit_interface.csproj.CoreCompileInputs.cache
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\obj\Debug\f-16_home_cockpit_interface.exe
+C:\wc\home_cockpit\f-16\f-16_home_cockpit_interface\f-16_home_cockpit_interface\f-16_home_cockpit_interface\obj\Debug\f-16_home_cockpit_interface.pdb
